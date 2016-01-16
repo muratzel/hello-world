@@ -1,2 +1,2 @@
 # hello-world
-og app
+og app made by me.
